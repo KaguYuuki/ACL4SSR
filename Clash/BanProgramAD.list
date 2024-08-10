@@ -851,6 +851,11 @@ IP-CIDR,101.227.200.28/32,no-resolve
 IP-CIDR,101.227.97.240/32,no-resolve
 IP-CIDR,124.192.153.42/32,no-resolve
 
+# IDM
+DOMAIN-SUFFIX,internetdownloadmanager.com
+DOMAIN-SUFFIX,registeridm.com
+DOMAIN-SUFFIX,tonec.com
+
 # Ku6 酷6
 DOMAIN-SUFFIX,gug.ku6cdn.com
 DOMAIN-SUFFIX,pq.stat.ku6.com
